@@ -1,5 +1,17 @@
 ## PromptHelper Release CheckList
 
+### 03/09/2025 0.0.2 Beta Release
+Breaking Change: changed storing method. Not compatible with 0.0.1. 
+- Added Preferred Prompts Tab
+  - Mark Prompt as preferred
+  - Mark Prompt as not preferred
+- Added Archive Tab
+  - Archive a Prompt
+  - Restore a Prompt
+- Added Close Drawer
+- Added Prompt usage statistics
+- Bug fixes
+
 ### 03/02/2025 0.0.1 Beta Release
 
 Content:
