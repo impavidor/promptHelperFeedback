@@ -1,5 +1,8 @@
 ## PromptHelper Release CheckList
 
+### 03/10/2025 0.0.3 Beta Release
+- Bug Fixes
+
 ### 03/09/2025 0.0.2 Beta Release
 Breaking Change: changed storing method. Not compatible with 0.0.1. 
 - Added Preferred Prompts Tab
