@@ -1,5 +1,11 @@
 ## PromptHelper Release CheckList
 
+### 03/10/2025 0.0.4 Beta Release
+-Improve prompt
+-Override Import
+-Better Open prompt visibility
+-Bug Fixes
+
 ### 03/10/2025 0.0.3 Beta Release
 - Bug Fixes
 
