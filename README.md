@@ -1,6 +1,6 @@
 ## PromptHelper Release CheckList
 
-### 04/05/20025 0.0.5 Beta Release
+### 04/05/2025 0.0.5 Beta Release
 - Added support for Copilot
 - Addes support for DeepSeek
 - Addes support for Antropic
